@@ -1,0 +1,4 @@
+streamlit
+pandas
+python-dotenv
+# Add any other dependencies your app needs 
