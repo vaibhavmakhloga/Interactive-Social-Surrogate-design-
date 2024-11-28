@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dotenv
+openai
+anthropic
+# Add any other dependencies your app needs 
